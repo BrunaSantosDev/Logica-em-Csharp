@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrante", "Quadrante\Quadrante.csproj", "{EAE1C758-44F5-47A5-B182-A8490F683593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE1C758-44F5-47A5-B182-A8490F683593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE1C758-44F5-47A5-B182-A8490F683593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE1C758-44F5-47A5-B182-A8490F683593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE1C758-44F5-47A5-B182-A8490F683593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64548EAE-53ED-4AB1-AA54-C58633212006}
+	EndGlobalSection
+EndGlobal
